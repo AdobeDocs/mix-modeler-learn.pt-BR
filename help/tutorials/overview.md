@@ -4,7 +4,7 @@ description: Uma coleção de vídeos e tutoriais do Adobe Mix Modeler.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: 3c615f525f1d589af3220bdd8f2cd40894d8f829
+source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -44,16 +44,16 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
     <p>
   </td>
   <td>
-    <a href="intro/user-workflow.md">
-      <img alt="imagem em miniatura do tutorial &quot;Fluxo de trabalho do usuário&quot;" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    <a href="intro/demo.md">
+      <img alt="imagem em miniatura do tutorial &quot;Demonstração completa&quot;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
-      <a href="intro/user-workflow.md">
-    <strong>Fluxo de trabalho do usuário</strong>
+      <a href="intro/demo.md">
+    <strong>Demonstração completa</strong>
     </a>
     </div>
     <p>
-    <em>Saiba mais sobre o fluxo de trabalho básico do Adobe Mix Modeler</em>
+    <em>Veja uma demonstração completa do Adobe Mix Modeler</em>
     <p>
   </td>
   <td>
