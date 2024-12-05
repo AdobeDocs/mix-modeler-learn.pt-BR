@@ -5,10 +5,10 @@ user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Mix Modele
 audience: all
 doc-type: video
 auto-video-transcripts: true
-source-git-commit: cdf2d8be116afcc9d4d565620ee2a909884ff7b3
+source-git-commit: db311146e2ee3b75d1b19be909f0fda95213ba36
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 62%
+source-wordcount: '37'
+ht-degree: 59%
 
 ---
 
@@ -20,4 +20,5 @@ ht-degree: 62%
    + [Visão geral](/help/tutorials/intro/understanding-mix-modeler.md)
    + [Casos de uso](/help/tutorials/intro/use-cases.md)
    + [Fluxo de trabalho do usuário](/help/tutorials/intro/user-workflow.md)
+   + [Demonstração completa](/help/tutorials/intro/demo.md)
    + [Tour da interface do usuário](/help/tutorials/intro/user-interface-tour.md)
