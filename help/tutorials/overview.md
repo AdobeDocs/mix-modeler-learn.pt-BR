@@ -1,10 +1,10 @@
 ---
-title: vídeos e tutoriais do Mix Modeler
+title: Vídeos e tutoriais do Mix Modeler
 description: Uma coleção de vídeos e tutoriais do Adobe Mix Modeler.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
+source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -30,19 +30,6 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
 <div id="staff-picks-section">
 <table style="margin-top: 0 !important">
 <tr>
-  <td>
-    <a href="intro/use-cases.md">
-      <img alt="imagem em miniatura do tutorial &quot;Casos de uso&quot;" src="https://video.tv.adobe.com/v/3424857?format=jpeg" />
-    </a>
-    <div>
-      <a href="intro/use-cases.md">
-    <strong>Casos de uso</strong>
-    </a>
-    </div>
-    <p>
-    <em>Conheça os principais casos de uso do Adobe Mix Modeler</em>
-    <p>
-  </td>
   <td>
     <a href="intro/demo.md">
       <img alt="imagem em miniatura do tutorial &quot;Demonstração completa&quot;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
@@ -70,6 +57,19 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
     <p>
   </td>
 </tr>
+  <td>
+    <a href="intro/user-workflow.md">
+      <img alt="imagem em miniatura do tutorial &quot;Fluxo de trabalho do usuário&quot;" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    </a>
+    <div>
+      <a href="intro/user-workflow.md">
+    <strong>Fluxo de trabalho do usuário</strong>
+    </a>
+    </div>
+    <p>
+    <em>Saiba mais sobre o fluxo de trabalho do usuário no Adobe Mix Modeler</em>
+    <p>
+  </td>
 </table>
 
 </div>
