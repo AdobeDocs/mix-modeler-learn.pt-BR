@@ -32,7 +32,7 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="imagem em miniatura do tutorial &quot;Demonstração completa&quot;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+      <img alt="imagem em miniatura do tutorial &quot;Demonstração completa&quot;" src="https://video.tv.adobe.com/v/3440799?format=jpeg&captions=por_br" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -45,7 +45,7 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="imagem em miniatura do vídeo &quot;User interface tour&quot;" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
+      <img alt="imagem em miniatura do vídeo &quot;User interface tour&quot;" src="https://video.tv.adobe.com/v/3452387?format=jpeg&captions=por_br" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -58,7 +58,7 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="imagem em miniatura do tutorial &quot;Fluxo de trabalho do usuário&quot;" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+      <img alt="imagem em miniatura do tutorial &quot;Fluxo de trabalho do usuário&quot;" src="https://video.tv.adobe.com/v/3440208?format=jpeg&captions=por_br" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
