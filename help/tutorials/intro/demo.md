@@ -19,4 +19,4 @@ ht-degree: 24%
 
 Veja uma demonstração completa do Adobe Mix Modeler. Para obter informações adicionais, consulte a [documentação do Mix Modeler](https://experienceleague.adobe.com/pt-br/docs/mix-modeler/using/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440799/?learn=on&enablevpops&captions=por_br)
