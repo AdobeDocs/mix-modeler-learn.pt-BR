@@ -17,6 +17,6 @@ ht-degree: 28%
 
 # Tour da interface do usuário
 
-Consulte os principais recursos do Mix Modeler na interface do usuário do. Para obter informações adicionais, consulte o [guia de Adobe Mix Modeler](https://experienceleague.adobe.com/pt-br/docs/mix-modeler/using/get-started/workflow).
+Consulte os principais recursos do Mix Modeler na interface. Para obter informações adicionais, consulte o [guia do Adobe Mix Modeler](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
->[!VIDEO](https://video.tv.adobe.com/v/3452387?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
