@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Detecção de desvio de modelo
 
-Com o recurso de detecção de desvio do modelo no Mix Modeler, o desvio nos modelos é automaticamente detectado e você pode agir imediatamente ou explorar o desvio com mais detalhes. Para obter mais informações, consulte [Descompasso do modelo](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} na documentação do Mix Modeler.
+Com o recurso de detecção de desvio do modelo no Mix Modeler, o desvio nos modelos é automaticamente detectado e você pode agir imediatamente ou explorar o desvio com mais detalhes. Para obter mais informações, consulte [Descompasso do modelo](https://experienceleague.adobe.com/pt-br/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} na documentação do Mix Modeler.
 
 >[!SLIDE](model-drift-detection)
