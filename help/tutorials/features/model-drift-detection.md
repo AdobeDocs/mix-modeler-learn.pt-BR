@@ -1,20 +1,20 @@
 ---
 title: Detecção de Desvio de Modelo
 description: Saiba mais sobre a detecção de desvio de modelo no Mix Modeler.
-role: Admin, Architect, Developer, Leader, User
+role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
 jira: KT-20158
 exl-id: 32962f4b-c506-403e-8bb2-45ebba22429c
-source-git-commit: 11a72f626e23b898b82b86660867a4620f13a192
+source-git-commit: e3e99aa0385a603c59fe60c3a7f843061e27960c
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # Detecção de desvio de modelo
 
-Com o recurso de detecção de desvio de modelo do Mix Modeler, as alterações no desempenho do modelo são detectadas automaticamente e os usuários são notificados. Eles podem tomar medidas imediatas para retornar o modelo ao desempenho ideal. Para obter mais informações, consulte [Descompasso do modelo](https://experienceleague.adobe.com/pt-br/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} na documentação do Mix Modeler.
+Com o recurso de detecção de desvio de modelo do Mix Modeler, as alterações no desempenho do modelo são detectadas automaticamente e os usuários são notificados. Eles podem tomar medidas imediatas para retornar o modelo ao desempenho ideal. Para obter mais informações, consulte [Descompasso do modelo](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} na documentação do Mix Modeler.
 
 >[!SLIDE](model-drift-detection)
