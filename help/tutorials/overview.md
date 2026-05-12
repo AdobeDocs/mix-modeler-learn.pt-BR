@@ -4,9 +4,17 @@ description: Uma coleção de vídeos e tutoriais do Adobe Mix Modeler.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: fcae8d9fd4609b2742ade0a589451a037ca69b71
+TQID: https://experienceleague.adobe.com/FWQ4ob4bYY75UfFmRFj7q-P5zX6k7d8jH5BV6C76HEU
+product_v2:
+  - id: b88c80e3-31df-4609-989d-d4dac0e6d973
+feature_v2:
+  - id: f40f1683-8300-4054-aab8-77da06ad63ff
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+source-git-commit: 1173a14c0dbe6b418918a687a9216a8cb2c7c24f
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: 124
 ht-degree: 12%
 
 ---
@@ -32,7 +40,7 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="imagem em miniatura do tutorial &quot;Demonstração completa&quot;" src="https://video.tv.adobe.com/v/3440799?format=jpeg&captions=por_br" />
+      <img alt="imagem em miniatura do tutorial &quot;Demonstração completa&quot;" src="https://video.tv.adobe.com/v/3440799?captions=por_br&format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -45,7 +53,7 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="imagem em miniatura do vídeo &quot;User interface tour&quot;" src="https://video.tv.adobe.com/v/3452387?format=jpeg&captions=por_br" />
+      <img alt="imagem em miniatura do vídeo &quot;User interface tour&quot;" src="https://video.tv.adobe.com/v/3452387?captions=por_br&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -58,7 +66,7 @@ O Adobe Mix Modeler ajuda as organizações a medir, otimizar e planejar investi
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="imagem em miniatura do tutorial &quot;Fluxo de trabalho do usuário&quot;" src="https://video.tv.adobe.com/v/3440208?format=jpeg&captions=por_br" />
+      <img alt="imagem em miniatura do tutorial &quot;Fluxo de trabalho do usuário&quot;" src="https://video.tv.adobe.com/v/3440208?captions=por_br&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
